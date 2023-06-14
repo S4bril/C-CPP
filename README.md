@@ -1,2 +1,2 @@
 # C/CPP
-Programs written in c/c++ solving algorithmic problems.
+Programs written in c/c++ solving different algorithmic problems.
